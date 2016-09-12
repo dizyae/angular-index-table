@@ -1,2 +1,2 @@
 # angular-index-table
-An Angular1.5 component that displays data with built-in features
+A configurable Angular1.5 component that displays data in a table with built-in features.
